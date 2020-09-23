@@ -1,0 +1,10 @@
+modDataFormat = 44, 44, 514, 417, Z
+modMain = 66, 66, 536, 439, 
+modProperty = 88, 88, 558, 461, 
+clsObject = 110, 110, 580, 483, 
+frmHidden = 66, 66, 536, 439, , 154, 154, 624, 527, C
+modControl = 0, 0, 470, 373, 
+CheckBox = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+CommandButton = 22, 22, 492, 395, , 22, 22, 492, 395, C
+OptionButton = 0, 0, 0, 0, C, 44, 44, 514, 417, C
+Label = 110, 110, 580, 483, , 22, 22, 492, 395, C
